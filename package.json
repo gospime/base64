@@ -1,6 +1,6 @@
 {
   "name": "@gospime/base64",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Encode string from some encoding to another encoding",
   "keywords": [
     "gospime",
