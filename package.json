@@ -27,9 +27,12 @@
   },
   "homepage": "https://github.com/gospime/base64#readme",
   "devDependencies": {
-    "standard-version": "^7.0.0"
+    "standard-version": "^7.1.0"
   },
   "engines": {
     "node": ">=10.17.0"
+  },
+  "optionalDependencies": {
+    "minimist": "^1.2.5"
   }
 }
