@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/gospime/base64#readme",
   "devDependencies": {
-    "standard-version": "^7.1.0"
+    "standard-version": "^8.0.1"
   },
   "engines": {
     "node": ">=10.17.0"
